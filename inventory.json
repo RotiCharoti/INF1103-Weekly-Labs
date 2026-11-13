@@ -1,58 +1,15 @@
 [
     {
         "id": "P001",
-        "name": "Laptop",
-        "price": 1200.0,
-        "stock": 15,
-        "type": "physical",
-        "weight": 2.5
-    },
-    {
-        "id": "P002",
         "name": "Mouse",
-        "price": 25.5,
-        "stock": 40,
+        "price": 40.0,
+        "stock": 18,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "Logitech",
+            "contact_email": "logitech@gmail.com"
+        },
         "type": "physical",
         "weight": 0.2
-    },
-    {
-        "id": "P003",
-        "name": "Keyboard",
-        "price": 45.0,
-        "stock": 25,
-        "type": "physical",
-        "weight": 0.8
-    },
-    {
-        "id": "P004",
-        "name": "Monitor",
-        "price": 299.99,
-        "stock": 50,
-        "type": "physical",
-        "weight": 4.2
-    },
-    {
-        "id": "D001",
-        "name": "Antivirus Software",
-        "price": 39.9,
-        "stock": 100,
-        "type": "digital",
-        "download_size": 250.0
-    },
-    {
-        "id": "P005",
-        "name": "Headphones",
-        "price": 100.0,
-        "stock": 45,
-        "type": "physical",
-        "weight": 0.2
-    },
-    {
-        "id": "D002",
-        "name": "Hack Client Software",
-        "price": 45.5,
-        "stock": 31,
-        "type": "digital",
-        "download_size": 500.0
     }
 ]
