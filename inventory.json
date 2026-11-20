@@ -1,0 +1,15 @@
+[
+    {
+        "id": "P001",
+        "name": "Mouse",
+        "price": 40.0,
+        "stock": 18,
+        "supplier": {
+            "supplier_id": "S001",
+            "name": "Logitech",
+            "contact_email": "logitech@gmail.com"
+        },
+        "type": "physical",
+        "weight": 0.2
+    }
+]
